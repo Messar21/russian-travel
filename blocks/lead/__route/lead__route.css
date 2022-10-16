@@ -1,0 +1,7 @@
+.lead__route {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 95.3%;
+    margin: calc((90.21/984)*100%) calc((23.4/984)*100%) 0;
+}
