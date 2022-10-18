@@ -1,12 +1,13 @@
-.lead__image-container {
+.lead__figure {
     position: relative;
+    display: flex;
+    flex-wrap: wrap;
     max-width: 984px;
-    max-height: 615px;
     margin: 0 auto;
 }
 
 @media screen and (max-width: 1024px){
-    .lead__image-container {
+    .lead__figure {
         max-width: 928px;
     }
 }
